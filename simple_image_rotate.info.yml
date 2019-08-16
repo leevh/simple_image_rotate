@@ -1,0 +1,7 @@
+name: Simple Image Rotate
+description: Simple image rotation
+type: module
+core: 8.x
+package: Media
+dependencies:
+  - drupal:image
